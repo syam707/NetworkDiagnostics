@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetworkDiagnostics.Console/1.0.0": {
+        "dependencies": {
+          "NetworkDiagnostics": "1.0.0"
+        },
+        "runtime": {
+          "NetworkDiagnostics.Console.dll": {}
+        }
+      },
+      "NetworkDiagnostics/1.0.0": {
+        "runtime": {
+          "NetworkDiagnostics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkDiagnostics.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkDiagnostics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

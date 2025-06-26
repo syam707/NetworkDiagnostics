@@ -1,0 +1,11 @@
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\net8.0\NetworkDiagnostics.deps.json
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\net8.0\NetworkDiagnostics.dll
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\bin\Debug\net8.0\NetworkDiagnostics.pdb
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.AssemblyInfoInputs.cache
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.AssemblyInfo.cs
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.csproj.CoreCompileInputs.cache
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.dll
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\refint\NetworkDiagnostics.dll
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\NetworkDiagnostics.pdb
+D:\SKR\Reflections\Workspace\Microsoft\NetworkDiagnostics\NetworkDiagnostics\obj\Debug\net8.0\ref\NetworkDiagnostics.dll
